@@ -1,6 +1,6 @@
 # .Net Core 'DLLInvoke' from golang
 
-This is a simple example of hot to use golang as library in dotnet 6 and higher.
+This is a simple example of how to use golang as library in dotnet 6 and higher.
 
 It is an open source you may use/copy/fork for private or commercial.
 
