@@ -14,4 +14,4 @@ The logic is in the go object and the dotnet console use it as a simple DLLInvok
 2. Build the 'dotnet6-console' project and run it.
 
 ## License
-[APACHE LICENSE 2.0](https://github.com/impossiblesoftware-ai/dotnet6-dllimport-from-golang/blob/master/LICENSE)
+[MIT](https://github.com/impossiblesoftware-ai/dotnet6-dllimport-from-golang/blob/master/LICENSE)
